@@ -1,0 +1,1038 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?><svg width="2175" height="995" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" stroke="#FFFF00" preserveAspectRatio="xMinYMin meet" viewBox="0,0,1900,1000">
+	<defs>
+		<linearGradient id="linearGradient">
+			<stop offset="0%" stop-color="rgb(154,120,0)" stop-opacity="1" />
+			<stop offset="49%" stop-color="rgb(255,249,227)" stop-opacity="1" />
+			<stop offset="50%" stop-color="rgb(255,255,255)" stop-opacity="1" />
+			<stop offset="51%" stop-color="rgb(255,255,255)" stop-opacity="1" />
+			<stop offset="100%" stop-color="rgb(0,0,128)" stop-opacity="1" />
+		</linearGradient>
+	</defs>
+	<rect x="0" y="0" width="2183" height="998" fill="#000000" stroke="#000000" transform="matrix(0.9999998,0,0,0.9999998,1.345846,-0.0003771925)" xmlns="http://www.w3.org/2000/svg" />
+	<line x1="70" y1="100" x2="120" y2="100" stroke="#804000" stroke-width="6" transform="matrix(1,0,0,1,15.666,-17.333)" />
+	<line x1="170" y1="100" x2="1900" y2="100" stroke="#804000" stroke-width="6" transform="matrix(1.11,0,0,1,25.415,-16.333)" />
+	<line x1="120" y1="100" x2="120" y2="205" stroke="#804000" stroke-width="3" transform="matrix(1,0,0,1,14.666,-17.333)" />
+	<line x1="120" y1="283" x2="120" y2="460" stroke="#804000" stroke-width="3" transform="matrix(1,0,0,1,14.666,-17.333)" />
+	<line x1="200" y1="100" x2="200" y2="418" stroke="#804000" stroke-width="3" transform="matrix(0.9999999,0,0,0.9999999,79.66482,-15.66604)" />
+	<line x1="350" y1="100" x2="350" y2="330" stroke="#804000" stroke-width="3" transform="matrix(1,0,0,1,1757.994,-13.166)" />
+	<line x1="620" y1="99" x2="620" y2="465" stroke="#804000" stroke-width="3" transform="matrix(0.9999999,0,0,0.9999999,408.3259,-17.66734)" />
+	<line x1="620" y1="465" x2="620" y2="715" stroke="#804000" stroke-width="2" transform="matrix(0.9999999,0,0,0.9999999,408.3259,-17.66734)" />
+	<line x1="860" y1="100" x2="860" y2="450" stroke="#804000" stroke-width="3" transform="matrix(0.9999999,0,0,0.8999999,1077.995,145.4989)" />
+	<line x1="1100" y1="98" x2="1100" y2="575" stroke="#804000" stroke-width="3" transform="matrix(0.9999999,0,0,0.7679999,-507.337,6.971666)" />
+	<line x1="1100" y1="575" x2="1100" y2="900" stroke="#804000" stroke-width="2" transform="matrix(0.9999999,0,0,0.7679999,-507.337,6.971666)" />
+	<line x1="1570" y1="100" x2="1570" y2="251" stroke="#804000" stroke-width="3" transform="matrix(1,0,0,1,167.666,-15)" />
+	<line x1="1570" y1="251" x2="1570" y2="465" stroke="#804000" stroke-width="3" transform="matrix(0.9999999,0,0,0.9999999,4.665927,-16)" />
+	<line x1="1570" y1="465" x2="1570" y2="715" stroke="#804000" stroke-width="2" transform="matrix(0.9999999,0,0,0.9999999,74.66489,-16.5)" />
+	<ellipse cx="120" cy="220" rx="20" ry="20" fill="none" fill-opacity="0" stroke="#FFFF00" transform="matrix(0.9999999,0,0,0.9999999,14.6641,-10.66713)" />
+	<ellipse cx="120" cy="255" rx="20" ry="20" fill="none" fill-opacity="0" stroke="#FFFF00" transform="matrix(0.9999999,0,0,0.9999999,14.6641,-10.66713)" />
+	<polygon points="130 224,110 224,119 207" fill-rule="evenodd" fill="none" fill-opacity="0" stroke="#FFFF00" transform="matrix(0.9999999,0,0,0.9999999,14.6641,-10.66713)" />
+	<line x1="110" y1="246" x2="119" y2="255" stroke="#FFFF00" fill="#FFFF00" transform="matrix(0.9999999,0,0,0.9999999,14.6641,-10.66713)" />
+	<line x1="120" y1="255" x2="130" y2="245" stroke="#FFFF00" fill="#FFFF00" transform="matrix(0.9999999,0,0,0.9999999,14.6641,-10.66713)" />
+	<line x1="120" y1="254" x2="120" y2="270" stroke="#FFFF00" transform="matrix(0.9999999,0,0,0.9999999,14.6641,-10.66713)" />
+	<line x1="115" y1="310" x2="148" y2="310" stroke="#804000" stroke-width="3" fill="#804000" transform="matrix(0.9999999,0,0,0.9999999,166.3329,2.66716)" />
+	<rect id="29.34.DI" x="115" y="370" width="10" height="30" fill="#FF0000" stroke="#FF0000" transform="matrix(0.9999999,0,0,0.9999999,159.6657,-147.3325)" />
+	<g transform="matrix(0.9999999,0,0,0.9999999,166.3329,2.66716)">
+		<g>
+			<rect x="93" y="54" width="6" height="20" fill="none" stroke="#FFFFFF" transform="matrix(1,0,0,1,0,0) matrix(1,0,0,1,51.4,266.667)" />
+			<line x1="148" y1="310" x2="148" y2="321" stroke="#FFFFFF" fill="#FFFFFF" transform="matrix(1,0,0,1,0,0) " />
+			<line x1="148" y1="341" x2="148" y2="356" stroke="#FFFFFF" transform="matrix(1,0,0,1,0,0) " />
+			<line x1="138" y1="324" x2="156" y2="336" stroke="#FFFFFF" fill="#FFFFFF" transform="matrix(1,0,0,1,0,0) " />
+		</g>
+		<line x1="65" y1="200" x2="75" y2="200" stroke="#FFFFFF" transform="matrix(1,0,0,1,0,0) matrix(1,0,0,1,77.4,155.667)" />
+		<line x1="67" y1="205" x2="73" y2="205" stroke="#FFFFFF" transform="matrix(1,0,0,1,0,0) matrix(1,0,0,1,77.4,155.667)" />
+		<line x1="69" y1="210" x2="71" y2="210" stroke="#FFFFFF" transform="matrix(1,0,0,1,0,0) matrix(1,0,0,1,77.4,155.667)" />
+	</g>
+	<line x1="119" y1="460" x2="265" y2="460" stroke="#804000" transform="matrix(1,0,0,1,14.666,-17.333)" stroke-width="3" />
+	<rect x="115" y="370" width="10" height="30" fill="#00FF00" stroke="#00FF00" transform="matrix(1,0,0,1,1987.728,-252.532)" />
+	<ellipse cx="550" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(1,0,0,1,1557.894,-232.032)" />
+	<ellipse cx="530" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(1,0,0,1,1557.894,-232.032)" />
+	<ellipse cx="570" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(1,0,0,1,1557.894,-232.032)" />
+	<line x1="550" y1="410" x2="550" y2="430" stroke="#FFFFFF" transform="matrix(1,0,0,1,1557.894,-232.032)" />
+	<line x1="530" y1="410" x2="530" y2="430" stroke="#FFFFFF" transform="matrix(1,0,0,1,1557.894,-232.032)" />
+	<line x1="570" y1="410" x2="570" y2="430" stroke="#FFFFFF" transform="matrix(1,0,0,1,1557.894,-232.032)" />
+	<line x1="536" y1="420" x2="542" y2="420" stroke="#FFFFFF" transform="matrix(1,0,0,1,1557.894,-232.032)" />
+	<line x1="556" y1="420" x2="562" y2="420" stroke="#FFFFFF" transform="matrix(1,0,0,1,1557.894,-232.032)" />
+	<line x1="576" y1="420" x2="582" y2="420" stroke="#FFFFFF" transform="matrix(1,0,0,1,1557.894,-232.032)" />
+	<line x1="579" y1="417" x2="582" y2="424" stroke="#FFFFFF" transform="matrix(1,0,0,1,1557.894,-232.032)" />
+	<line x1="577" y1="417" x2="580" y2="424" stroke="#FFFFFF" transform="matrix(1,0,0,1,1557.894,-232.032)" />
+	<line x1="559" y1="417" x2="562" y2="424" stroke="#FFFFFF" transform="matrix(1,0,0,1,1557.894,-232.032)" />
+	<line x1="557" y1="417" x2="560" y2="424" stroke="#FFFFFF" transform="matrix(1,0,0,1,1557.894,-232.032)" />
+	<line x1="539" y1="417" x2="542" y2="424" stroke="#FFFFFF" transform="matrix(1,0,0,1,1557.894,-232.032)" />
+	<line x1="537" y1="417" x2="540" y2="424" stroke="#FFFFFF" transform="matrix(1,0,0,1,1557.894,-232.032)" />
+	<rect x="93" y="54" width="6" height="20" fill="none" stroke="#FFFFFF" transform="matrix(1,0,0,1,1988.394,192)" />
+	<line x1="148" y1="310" x2="148" y2="321" stroke="#FFFFFF" fill="#FFFFFF" transform="matrix(1,0,0,1,1936.994,-74.666)" />
+	<line x1="148" y1="341" x2="148" y2="356" stroke="#FFFFFF" transform="matrix(1,0,0,1,1936.994,-74.666)" />
+	<line x1="138" y1="324" x2="156" y2="336" stroke="#FFFFFF" fill="#FFFFFF" transform="matrix(1,0,0,1,1936.994,-74.666)" />
+	<line x1="65" y1="200" x2="75" y2="200" stroke="#FFFFFF" transform="matrix(1,0,0,1,2014.394,81)" />
+	<line x1="67" y1="205" x2="73" y2="205" stroke="#FFFFFF" transform="matrix(1,0,0,1,2014.394,81)" />
+	<line x1="69" y1="210" x2="71" y2="210" stroke="#FFFFFF" transform="matrix(1,0,0,1,2014.394,81)" />
+	<line x1="326.5" y1="248" x2="350" y2="248" stroke="#FFFFFF" stroke-opacity="1" fill="#FFFFFF" transform="matrix(1,0,0,1,1757.994,-12.666)" />
+	<rect x="346" y="265" width="8" height="22" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(1,0,0,1,1757.994,-12.666)" />
+	<line x1="200" y1="390" x2="200" y2="421" stroke="#FFFFFF" transform="matrix(-1,-0.017,0.017,-1,2300.113,767.887)" fill="#FFFFFF" />
+	<line x1="365" y1="461" x2="374" y2="471" stroke="#FFFFFF" transform="matrix(1,0.009,-0.009,1,1725.851,-76.187)" />
+	<line x1="361" y1="466" x2="371" y2="477" stroke="#FFFFFF" transform="matrix(1,0.009,-0.009,1,1725.851,-76.187)" />
+	<line x1="403" y1="462" x2="394" y2="474" stroke="#FFFFFF" transform="matrix(1,0.009,-0.009,1,1725.851,-76.187)" />
+	<line x1="408" y1="466" x2="398" y2="479" stroke="#FFFFFF" transform="matrix(1,0.009,-0.009,1,1725.851,-76.187)" />
+	<line x1="380" y1="494" x2="380" y2="508" stroke="#FFFFFF" transform="matrix(1,0.009,-0.009,1,1725.851,-76.187)" />
+	<line x1="371" y1="467" x2="384" y2="448" stroke="#FFFFFF" transform="matrix(1,0.009,-0.009,1,1725.851,-76.187)" />
+	<line x1="344" y1="499" x2="365" y2="473" stroke="#FFFFFF" transform="matrix(1,0.009,-0.009,1,1725.851,-76.187)" />
+	<line x1="344" y1="500" x2="379" y2="500" stroke="#FFFFFF" transform="matrix(1,0.009,-0.009,1,1725.851,-76.187)" />
+	<line x1="387" y1="500" x2="423" y2="500" stroke="#FFFFFF" transform="matrix(1,0.009,-0.009,1,1725.851,-76.187)" />
+	<line x1="387" y1="494" x2="387" y2="508" stroke="#FFFFFF" transform="matrix(1,0.009,-0.009,1,1725.851,-76.187)" />
+	<line x1="385" y1="448" x2="399" y2="468" stroke="#FFFFFF" transform="matrix(1,0.009,-0.009,1,1725.851,-76.187)" />
+	<line x1="403" y1="473" x2="423" y2="500" stroke="#FFFFFF" transform="matrix(1,0.009,-0.009,1,1725.851,-76.187)" />
+	<path d="M353.5 431.5L370.1169 448.824A23.5 24.5 0 1 1 368.5062 412.6461Z" fill="none" stroke="#FFFFFF" transform="matrix(-0.726,-0.688,0.688,-0.726,2067.588,896.984)" />
+	<line x1="349.6666" y1="330.3333" x2="349.6666" y2="352.6666" stroke="#000000" stroke-width="3" transform="matrix(1,0,0,1,1757.994,-12.666)" />
+	<line x1="327" y1="356.6666" x2="351" y2="353" stroke="#000000" stroke-width="3" transform="matrix(1,0,0,1,1757.994,-12.666)" />
+	<line x1="-13.66667" y1="286.3333" x2="-13.66667" y2="286.3333" stroke="#FFFFFF" stroke-width="3" fill="#FFFFFF" />
+	<line x1="326" y1="356" x2="350" y2="356" stroke="#FFFFFF" stroke-width="1" transform="matrix(1,0,0,1,1757.994,-12.666)" />
+	<rect id="34.39.DI" x="115" y="370" width="10" height="30" fill="#FF0000" stroke="#FF0000" transform="matrix(0.9999999,0,0,0.9999999,1817.323,-1.000036)" />
+	<ellipse cx="550" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1387.495,19.49996)" />
+	<ellipse cx="530" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1387.495,19.49996)" />
+	<ellipse cx="570" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1387.495,19.49996)" />
+	<line x1="550" y1="410" x2="550" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1387.495,19.49996)" fill="#FFFFFF" />
+	<line x1="530" y1="410" x2="530" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1387.495,19.49996)" fill="#FFFFFF" />
+	<line x1="570" y1="410" x2="570" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1387.495,19.49996)" fill="#FFFFFF" />
+	<line x1="536" y1="420" x2="542" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1387.495,19.49996)" fill="#FFFFFF" />
+	<line x1="556" y1="420" x2="562" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1387.495,19.49996)" fill="#FFFFFF" />
+	<line x1="576" y1="420" x2="582" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1387.495,19.49996)" fill="#FFFFFF" />
+	<line x1="579" y1="417" x2="582" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1387.495,19.49996)" fill="#FFFFFF" />
+	<line x1="577" y1="417" x2="580" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1387.495,19.49996)" fill="#FFFFFF" />
+	<line x1="559" y1="417" x2="562" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1387.495,19.49996)" fill="#FFFFFF" />
+	<line x1="557" y1="417" x2="560" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1387.495,19.49996)" fill="#FFFFFF" />
+	<line x1="539" y1="417" x2="542" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1387.495,19.49996)" fill="#FFFFFF" />
+	<line x1="537" y1="417" x2="540" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1387.495,19.49996)" fill="#FFFFFF" />
+		<rect id="31.36.DI" x="115" y="370" width="10" height="30" fill="#FF0000" stroke="#FF0000" transform="matrix(0.9999999,0,0,0.9999999,472.32,-107.6663)" />
+	<ellipse cx="550" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,42.49295,-87.16634)" />
+	<ellipse cx="530" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,42.49295,-87.16634)" />
+	<ellipse cx="570" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,42.49295,-87.16634)" />
+	<line x1="550" y1="410" x2="550" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,42.49295,-87.16634)" />
+	<line x1="530" y1="410" x2="530" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,42.49295,-87.16634)" />
+	<line x1="570" y1="410" x2="570" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,42.49295,-87.16634)" />
+	<line x1="536" y1="420" x2="542" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,42.49295,-87.16634)" />
+	<line x1="556" y1="420" x2="562" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,42.49295,-87.16634)" />
+	<line x1="576" y1="420" x2="582" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,42.49295,-87.16634)" />
+	<line x1="579" y1="417" x2="582" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,42.49295,-87.16634)" />
+	<line x1="577" y1="417" x2="580" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,42.49295,-87.16634)" />
+	<line x1="559" y1="417" x2="562" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,42.49295,-87.16634)" />
+	<line x1="557" y1="417" x2="560" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,42.49295,-87.16634)" />
+	<line x1="539" y1="417" x2="542" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,42.49295,-87.16634)" />
+	<line x1="537" y1="417" x2="540" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,42.49295,-87.16634)" />
+	<rect id="32.37.DI" x="115" y="370" width="10" height="30" fill="#FF0000" stroke="#FF0000" transform="matrix(0.9999999,0,0,0.9999999,1454.323,-89.33302)" />
+	<ellipse cx="550" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1024.492,-85.50005)" />
+	<ellipse cx="530" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1024.492,-85.50005)" />
+	<ellipse cx="570" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1024.492,-85.50005)" />
+	<line x1="550" y1="410" x2="550" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1024.492,-85.50005)" />
+	<line x1="530" y1="410" x2="530" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1024.492,-85.50005)" />
+	<line x1="570" y1="410" x2="570" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1024.492,-85.50005)" />
+	<line x1="536" y1="420" x2="542" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1024.492,-85.50005)" />
+	<line x1="556" y1="420" x2="562" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1024.492,-85.50005)" />
+	<line x1="576" y1="420" x2="582" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1024.492,-85.50005)" />
+	<line x1="579" y1="417" x2="582" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1024.492,-85.50005)" />
+	<line x1="577" y1="417" x2="580" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1024.492,-85.50005)" />
+	<line x1="559" y1="417" x2="562" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1024.492,-85.50005)" />
+	<line x1="557" y1="417" x2="560" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1024.492,-85.50005)" />
+	<line x1="539" y1="417" x2="542" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1024.492,-85.50005)" />
+	<line x1="537" y1="417" x2="540" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1024.492,-85.50005)" />
+	<rect id="30.35.DI" x="115" y="370" width="10" height="30" fill="#FF0000" stroke="#FF0000" transform="matrix(0.9999999,0,0,0.9999999,907.8519,-107.6003)" />
+	<ellipse cx="550" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,478.0249,-87.10033)" />
+	<ellipse cx="530" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,478.1849,-86.60133)" />
+	<ellipse cx="570" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,478.0249,-87.10033)" />
+	<line x1="550" y1="410" x2="550" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,478.0249,-87.10033)" />
+	<line x1="530" y1="410" x2="530" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,478.1849,-86.60133)" />
+	<line x1="570" y1="410" x2="570" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,478.0249,-87.10033)" />
+	<line x1="536" y1="420" x2="542" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,478.1849,-86.60133)" />
+	<line x1="556" y1="420" x2="562" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,478.0249,-87.10033)" />
+	<line x1="576" y1="420" x2="582" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,478.0249,-87.10033)" />
+	<line x1="579" y1="417" x2="582" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,478.0249,-87.10033)" />
+	<line x1="577" y1="417" x2="580" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,478.0249,-87.10033)" />
+	<line x1="559" y1="417" x2="562" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,478.0249,-87.10033)" />
+	<line x1="557" y1="417" x2="560" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,478.0249,-87.10033)" />
+	<line x1="539" y1="417" x2="542" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,478.1849,-86.60133)" />
+	<line x1="537" y1="417" x2="540" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,478.1849,-86.60133)" />
+	<polygon points="612 422,601 403,623 403" fill-rule="evenodd" fill="#CCCCCC" stroke="#CCCCCC" transform="matrix(0.9999999,0,0,0.9999999,416.2769,-22.21734)" />
+	<polygon points="612 422,601 403,623 403" fill-rule="evenodd" fill="#CCCCCC" stroke="#CCCCCC" transform="matrix(0.9999999,0,0,0.9999999,1325.943,85.19889)" />
+	<polygon points="612 422,601 403,623 403" fill-rule="evenodd" fill="#CCCCCC" stroke="#CCCCCC" transform="matrix(0.9999999,0,0,0.9999999,-19.43801,-21.71634)" />
+	<polygon points="612 422,601 403,623 403" fill-rule="evenodd" fill="#CCCCCC" stroke="#CCCCCC" transform="matrix(0.9999999,0,0,0.9999999,962.8024,-20.3)" />
+	<line x1="458" y1="500" x2="769" y2="500" stroke="#804000" fill="#804000" stroke-width="3" transform="matrix(0.9999999,0,0,0.9999999,408.826,-52.16734)" />
+	<line x1="980" y1="500" x2="1208" y2="500" stroke="#804000" stroke-width="3" transform="matrix(0.9999999,0,0,0.9999999,-507.837,-51.66634)" />
+	<line x1="1285" y1="500" x2="1762" y2="500" stroke="#804000" stroke-width="3" transform="matrix(0.9999999,0,0,0.9999999,27.33187,-52)" />
+	<line x1="500" y1="500" x2="500" y2="750" stroke="#804000" stroke-width="2" transform="matrix(0.9999999,0,0,0.9999999,366.6579,-52.66734)" />
+	<line x1="745" y1="500" x2="745" y2="750" stroke="#804000" stroke-width="2" transform="matrix(0.9999999,0,0,0.9999999,433.324,-52.66734)" />
+	<line x1="980" y1="500" x2="980" y2="750" stroke="#804000" stroke-width="2" transform="matrix(0.9999999,0,0,0.9999999,-507.337,-52.66634)" />
+	<line x1="1250" y1="500" x2="1250" y2="750" stroke="#804000" stroke-width="2" transform="matrix(0.9999999,0,0,0.9999999,-550.67,-51.00034)" />
+	<line x1="1680" y1="500" x2="1680" y2="900" stroke="#804000" stroke-width="2" transform="matrix(0.9999999,0,0,0.6369999,108.9989,128.393)" />
+	<rect id="7.60.DI" x="115" y="370" width="10" height="30" fill="#FF0000" stroke="#FF0000" transform="matrix(0.9999999,0,0,0.9999999,746.3849,129.1996)" />
+	<ellipse cx="550" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,316.557,151.3647)" />
+	<ellipse cx="530" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,316.557,151.3647)" />
+	<ellipse cx="570" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,316.557,151.3647)" />
+	<line x1="550" y1="410" x2="550" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,316.557,151.3647)" />
+	<line x1="530" y1="410" x2="530" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,316.557,151.3647)" />
+	<line x1="570" y1="410" x2="570" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,316.557,151.3647)" />
+	<line x1="536" y1="420" x2="542" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,316.557,151.3647)" />
+	<line x1="556" y1="420" x2="562" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,316.557,151.3647)" />
+	<line x1="576" y1="420" x2="582" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,316.557,151.3647)" />
+	<line x1="579" y1="417" x2="582" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,316.557,151.3647)" />
+	<line x1="577" y1="417" x2="580" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,316.557,151.3647)" />
+	<line x1="559" y1="417" x2="562" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,316.557,151.3647)" />
+	<line x1="557" y1="417" x2="560" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,316.557,151.3647)" />
+	<line x1="539" y1="417" x2="542" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,316.557,151.3647)" />
+	<line x1="537" y1="417" x2="540" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,316.557,151.3647)" />
+	<polygon points="612 422,601 403,623 403" fill-rule="evenodd" fill="#CCCCCC" stroke="#CCCCCC" transform="matrix(0.9999999,0,0,0.9999999,254.81,216.2477)" />
+	<rect id="49.60.DI" x="115" y="370" width="10" height="30" fill="#FF0000" stroke="#FF0000" transform="matrix(0.9999999,0,0,0.9999999,908.0528,128.9987)" />
+	<ellipse cx="550" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,478.2249,151.1646)" />
+	<ellipse cx="530" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,478.2249,151.1646)" />
+	<ellipse cx="570" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,478.2249,151.1646)" />
+	<line x1="550" y1="410" x2="550" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,478.2249,151.1646)" />
+	<line x1="530" y1="410" x2="530" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,478.2249,151.1646)" />
+	<line x1="570" y1="410" x2="570" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,478.2249,151.1646)" />
+	<line x1="536" y1="420" x2="542" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,478.2249,151.1646)" />
+	<line x1="556" y1="420" x2="562" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,478.2249,151.1646)" />
+	<line x1="576" y1="420" x2="582" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,478.2249,151.1646)" />
+	<line x1="579" y1="417" x2="582" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,478.2249,151.1646)" />
+	<line x1="577" y1="417" x2="580" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,478.2249,151.1646)" />
+	<line x1="559" y1="417" x2="562" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,478.2249,151.1646)" />
+	<line x1="557" y1="417" x2="560" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,478.2249,151.1646)" />
+	<line x1="539" y1="417" x2="542" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,478.2249,151.1646)" />
+	<line x1="537" y1="417" x2="540" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,478.2249,151.1646)" />
+	<polygon points="612 422,601 403,623 403" fill-rule="evenodd" fill="#CCCCCC" stroke="#CCCCCC" transform="matrix(0.9999999,0,0,0.9999999,416.476,216.0476)" />
+	<rect id="50.60.DI" x="115" y="370" width="10" height="30" fill="#FF0000" stroke="#FF0000" transform="matrix(0.9999999,0,0,0.9999999,1058.058,128.1996)" />
+	<ellipse cx="550" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,628.2199,150.3647)" />
+	<ellipse cx="530" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,628.2199,150.3647)" />
+	<ellipse cx="570" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,628.2199,150.3647)" />
+	<line x1="550" y1="410" x2="550" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,628.2199,150.3647)" />
+	<line x1="530" y1="410" x2="530" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,628.2199,150.3647)" />
+	<line x1="570" y1="410" x2="570" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,628.2199,150.3647)" />
+	<line x1="536" y1="420" x2="542" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,628.2199,150.3647)" />
+	<line x1="556" y1="420" x2="562" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,628.2199,150.3647)" />
+	<line x1="576" y1="420" x2="582" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,628.2199,150.3647)" />
+	<line x1="579" y1="417" x2="582" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,628.2199,150.3647)" />
+	<line x1="577" y1="417" x2="580" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,628.2199,150.3647)" />
+	<line x1="559" y1="417" x2="562" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,628.2199,150.3647)" />
+	<line x1="557" y1="417" x2="560" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,628.2199,150.3647)" />
+	<line x1="539" y1="417" x2="542" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,628.2199,150.3647)" />
+	<line x1="537" y1="417" x2="540" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,628.2199,150.3647)" />
+	<polygon points="612 422,601 403,623 403" fill-rule="evenodd" fill="#CCCCCC" stroke="#CCCCCC" transform="matrix(0.9999999,0,0,0.9999999,566.4719,215.2476)" />
+	<rect id="47.5.DI" x="115" y="370" width="10" height="30" fill="#FF0000" stroke="#FF0000" transform="matrix(0.9999999,0,0,0.9999999,352.587,128.4007)" />
+	<ellipse cx="550" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,-77.23902,150.5656)" />
+	<ellipse cx="530" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,-77.23902,150.5656)" />
+	<ellipse cx="570" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,-77.23902,150.5656)" />
+	<line x1="550" y1="410" x2="550" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,-77.23902,150.5656)" />
+	<line x1="530" y1="410" x2="530" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,-77.23902,150.5656)" />
+	<line x1="570" y1="410" x2="570" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,-77.23902,150.5656)" />
+	<line x1="536" y1="420" x2="542" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,-77.23902,150.5656)" />
+	<line x1="556" y1="420" x2="562" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,-77.23902,150.5656)" />
+	<line x1="576" y1="420" x2="582" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,-77.23902,150.5656)" />
+	<line x1="579" y1="417" x2="582" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,-77.23902,150.5656)" />
+	<line x1="577" y1="417" x2="580" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,-77.23902,150.5656)" />
+	<line x1="559" y1="417" x2="562" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,-77.23902,150.5656)" />
+	<line x1="557" y1="417" x2="560" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,-77.23902,150.5656)" />
+	<line x1="539" y1="417" x2="542" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,-77.23902,150.5656)" />
+	<line x1="537" y1="417" x2="540" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,-77.23902,150.5656)" />
+	<polygon points="612 422,601 403,623 403" fill-rule="evenodd" fill="#CCCCCC" stroke="#CCCCCC" transform="matrix(0.9999999,0,0,0.9999999,-138.986,215.4486)" />
+	<rect x="115" y="370" width="10" height="30" fill="#FF0000" stroke="#FF0000" transform="matrix(0.9999999,0,0,0.9999999,472.5859,127.9997)" />
+	<ellipse cx="550" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,42.76094,150.1656)" />
+	<ellipse cx="530" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,42.76094,150.1656)" />
+	<ellipse cx="570" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,42.76094,150.1656)" />
+	<line x1="550" y1="410" x2="550" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,42.76094,150.1656)" />
+	<line x1="530" y1="410" x2="530" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,42.76094,150.1656)" />
+	<line x1="570" y1="410" x2="570" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,42.76094,150.1656)" />
+	<line x1="536" y1="420" x2="542" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,42.76094,150.1656)" />
+	<line x1="556" y1="420" x2="562" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,42.76094,150.1656)" />
+	<line x1="576" y1="420" x2="582" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,42.76094,150.1656)" />
+	<line x1="579" y1="417" x2="582" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,42.76094,150.1656)" />
+	<line x1="577" y1="417" x2="580" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,42.76094,150.1656)" />
+	<line x1="559" y1="417" x2="562" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,42.76094,150.1656)" />
+	<line x1="557" y1="417" x2="560" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,42.76094,150.1656)" />
+	<line x1="539" y1="417" x2="542" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,42.76094,150.1656)" />
+	<line x1="537" y1="417" x2="540" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,42.76094,150.1656)" />
+	<polygon points="612 422,601 403,623 403" fill-rule="evenodd" fill="#CCCCCC" stroke="#CCCCCC" transform="matrix(0.9999999,0,0,0.9999999,-18.99001,215.0486)" />
+	<rect id="19.22.DI" x="115" y="370" width="10" height="30" fill="#FF0000" stroke="#FF0000" transform="matrix(0.9999999,0,0,0.9999999,579.2499,129.8667)" />
+	<ellipse cx="550" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,149.427,152.0316)" />
+	<ellipse cx="530" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,149.427,152.0316)" />
+	<ellipse cx="570" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,149.427,152.0316)" />
+	<line x1="550" y1="410" x2="550" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,149.427,152.0316)" />
+	<line x1="530" y1="410" x2="530" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,149.427,152.0316)" />
+	<line x1="570" y1="410" x2="570" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,149.427,152.0316)" />
+	<line x1="536" y1="420" x2="542" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,149.427,152.0316)" />
+	<line x1="556" y1="420" x2="562" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,149.427,152.0316)" />
+	<line x1="576" y1="420" x2="582" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,149.427,152.0316)" />
+	<line x1="579" y1="417" x2="582" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,149.427,152.0316)" />
+	<line x1="577" y1="417" x2="580" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,149.427,152.0316)" />
+	<line x1="559" y1="417" x2="562" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,149.427,152.0316)" />
+	<line x1="557" y1="417" x2="560" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,149.427,152.0316)" />
+	<line x1="539" y1="417" x2="542" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,149.427,152.0316)" />
+	<line x1="537" y1="417" x2="540" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,149.427,152.0316)" />
+	<polygon points="612 422,601 403,623 403" fill-rule="evenodd" fill="#CCCCCC" stroke="#CCCCCC" transform="matrix(0.9999999,0,0,0.9999999,87.67695,216.9146)" />
+	<rect id="13.13.DI" x="115" y="370" width="10" height="30" fill="#FF0000" stroke="#FF0000" transform="matrix(0.9999999,0,0,0.9999999,1524.391,126.334)" />
+	<ellipse cx="550" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1094.557,151.833)" />
+	<ellipse cx="530" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1094.557,151.833)" />
+	<ellipse cx="570" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1094.557,151.833)" />
+	<line x1="550" y1="410" x2="550" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1094.557,151.833)" />
+	<line x1="530" y1="410" x2="530" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1094.557,151.833)" />
+	<line x1="570" y1="410" x2="570" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1094.557,151.833)" />
+	<line x1="536" y1="420" x2="542" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1094.557,151.833)" />
+	<line x1="556" y1="420" x2="562" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1094.557,151.833)" />
+	<line x1="576" y1="420" x2="582" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1094.557,151.833)" />
+	<line x1="579" y1="417" x2="582" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1094.557,151.833)" />
+	<line x1="577" y1="417" x2="580" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1094.557,151.833)" />
+	<line x1="559" y1="417" x2="562" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1094.557,151.833)" />
+	<line x1="557" y1="417" x2="560" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1094.557,151.833)" />
+	<line x1="539" y1="417" x2="542" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1094.557,151.833)" />
+	<line x1="537" y1="417" x2="540" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1094.557,151.833)" />
+	<polygon points="612 422,601 403,623 403" fill-rule="evenodd" fill="#CCCCCC" stroke="#CCCCCC" transform="matrix(0.9999999,0,0,0.9999999,1032.807,216.716)" />
+	<rect id="14.14.DI" x="115" y="370" width="10" height="30" fill="#FF0000" stroke="#FF0000" transform="matrix(0.9999999,0,0,0.9999999,1667.724,131.534)" />
+	<ellipse cx="550" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1237.886,152.033)" />
+	<ellipse cx="530" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1237.886,152.033)" />
+	<ellipse cx="570" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999998,0,0,0.9999998,1238.442,152.033)" xmlns="http://www.w3.org/2000/svg" />
+	<line x1="550" y1="410" x2="550" y2="430" stroke="#FFFFFF" transform="matrix(1,0,0,1,1238.559,152.033)" xmlns="http://www.w3.org/2000/svg" />
+	<line x1="530" y1="410" x2="530" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1237.886,152.033)" />
+	<line x1="570" y1="410" x2="570" y2="430" stroke="#FFFFFF" transform="matrix(1,0,0,1,1238.217,152.033)" xmlns="http://www.w3.org/2000/svg" />
+	<line x1="536" y1="420" x2="542" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1237.886,152.033)" />
+	<line x1="556" y1="420" x2="562" y2="420" stroke="#FFFFFF" transform="matrix(0.9999998,0,0,0.9999998,1238.442,152.033)" xmlns="http://www.w3.org/2000/svg" />
+	<line x1="576" y1="420" x2="582" y2="420" stroke="#FFFFFF" transform="matrix(0.9999998,0,0,0.9999998,1238.442,152.033)" xmlns="http://www.w3.org/2000/svg" />
+	<line x1="579" y1="417" x2="582" y2="424" stroke="#FFFFFF" transform="matrix(0.9999998,0,0,0.9999998,1238.442,152.033)" xmlns="http://www.w3.org/2000/svg" />
+	<line x1="577" y1="417" x2="580" y2="424" stroke="#FFFFFF" transform="matrix(0.9999998,0,0,0.9999998,1238.442,152.033)" xmlns="http://www.w3.org/2000/svg" />
+	<line x1="559" y1="417" x2="562" y2="424" stroke="#FFFFFF" transform="matrix(0.9999998,0,0,0.9999998,1238.442,152.033)" xmlns="http://www.w3.org/2000/svg" />
+	<line x1="557" y1="417" x2="560" y2="424" stroke="#FFFFFF" transform="matrix(0.9999998,0,0,0.9999998,1238.442,152.033)" xmlns="http://www.w3.org/2000/svg" />
+	<line x1="539" y1="417" x2="542" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1237.886,152.033)" />
+	<line x1="537" y1="417" x2="540" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,1237.886,152.033)" />
+	<polygon points="612 422,601 403,623 403" fill-rule="evenodd" fill="#CCCCCC" stroke="#CCCCCC" transform="matrix(0.9999999,0,0,0.9999999,1176.641,216.915)" />
+				<text x="65" y="50" xml:space="preserve" font-family="宋体" font-size="20" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" transform="matrix(0.9999999,0,0,0.9999999,-8.067948,20.667)" xmlns="http://www.w3.org/2000/svg">
+	1#变压器</text>
+	<text x="325" y="50" xml:space="preserve" font-family="宋体" font-size="20" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" transform="matrix(0.9999999,0,0,0.9999999,1731.39,19.41731)" xmlns="http://www.w3.org/2000/svg">
+	电容柜</text>
+	<text class="shebei" style="cursor:pointer" data-sb="30.35.DI" x="590" y="50" xml:space="preserve" font-family="宋体" font-size="20" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" transform="matrix(0.9999999,0,0,0.9999999,289.0939,129.7487)" xmlns="http://www.w3.org/2000/svg">
+	C栋进线</text>
+	<text class="shebei" style="cursor:pointer" data-sb="34.39.DI" data-mid="1" x="820" y="50" xml:space="preserve" font-family="宋体" font-size="20" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" transform="matrix(0.9999999,0,0,0.9999999,971.5781,225.582)" xmlns="http://www.w3.org/2000/svg">
+	B栋宿舍进线</text>
+	<text class="shebei" style="cursor:pointer" data-sb="31.36.DI" x="1075" y="50" xml:space="preserve" font-family="宋体" font-size="20" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" transform="matrix(0.9999999,0,0,0.9999999,-624.8726,127.0007)" xmlns="http://www.w3.org/2000/svg">
+	D栋进线</text>
+	<text class="shebei" style="cursor:pointer" data-sb="32.37.DI" x="1540" y="50" xml:space="preserve" font-family="宋体" font-size="20" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" transform="matrix(0.9999999,0,0,0.9999999,-133.3338,231.333)">
+	E栋进线</text>
+	<text class="shebei" style="cursor:pointer" data-sb="29.34.DI" x="1540" y="550" xml:space="preserve" font-family="宋体" font-size="20" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" transform="matrix(0.9999999,0,0,0.9999999,-1309.093,-478.167)" xmlns="http://www.w3.org/2000/svg">
+	进线柜</text>
+	<text class="shebei" style="cursor:pointer" data-sb="7.60.DI" data-mid="1" x="1540" y="550" xml:space="preserve" font-family="宋体" font-size="20" stroke-width="0.05" fill="#FFFFFF" stroke="#FFFFFF" transform="matrix(0.9999998,0,0,0.9999998,-714.3868,174.3297)" xmlns="http://www.w3.org/2000/svg">
+	C栋一楼</text>
+	<text class="shebei" style="cursor:pointer" data-sb="49.60.DI" data-mid="2" x="1540" y="550" xml:space="preserve" font-family="宋体" font-size="20" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" transform="matrix(0.9999998,0,0,0.9999998,-546.895,171.5797)" xmlns="http://www.w3.org/2000/svg">
+	C栋二楼</text>
+	<text class="shebei" style="cursor:pointer" data-sb="50.60.DI" data-mid="3" x="1540" y="550" xml:space="preserve" font-family="宋体" font-size="20" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" transform="matrix(0.9999998,0,0,0.9999998,-399.4084,171.3296)" xmlns="http://www.w3.org/2000/svg">
+	C栋三楼</text>
+	<text class="shebei" style="cursor:pointer" data-sb="47.5.DI" data-mid="3" x="1540" y="550" xml:space="preserve" font-family="宋体" font-size="20" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" transform="matrix(0.9999998,0,0,0.9999998,-1104.922,169.55)" xmlns="http://www.w3.org/2000/svg">
+	D栋一楼</text>
+	<text x="1540" y="550" xml:space="preserve" font-family="宋体" font-size="20" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" transform="matrix(0.9999998,0,0,0.9999998,-986.3676,170.6647)" xmlns="http://www.w3.org/2000/svg">
+	D栋二楼</text>
+	<text class="shebei" style="cursor:pointer" data-sb="19.22.DI" data-mid="1" x="1540" y="550" xml:space="preserve" font-family="宋体" font-size="20" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" transform="matrix(0.9999998,0,0,0.9999998,-900.1844,171.3306)" xmlns="http://www.w3.org/2000/svg">
+	三楼组装车间</text>
+	<text class="shebei" style="cursor:pointer" data-sb="13.13.DI" data-mid="4" x="1540" y="550" xml:space="preserve" font-family="宋体" font-size="20" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" transform="matrix(0.9999999,0,0,0.9999999,71.81447,172.831)" xmlns="http://www.w3.org/2000/svg">
+	三楼A</text>
+	<text class="shebei" style="cursor:pointer" data-sb="14.14.DI" x="1540" y="550" xml:space="preserve" font-family="宋体" font-size="20" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" transform="matrix(0.9999999,0,0,0.9999999,217.4144,173.915)" xmlns="http://www.w3.org/2000/svg">
+	三楼B</text>
+	<text x="27.49997" y="217.5" xml:space="preserve" font-family="宋体" font-size="15" stroke-width="0.05" fill="#FFFFFF" stroke="#FFFFFF" baseline-shift="baseline" transform="matrix(0.9999999,0,0,1.34,77.5825,-153.441)" xmlns="http://www.w3.org/2000/svg">
+		<tspan>
+		400 KVA</tspan>
+		<tspan x="8" dy="13.6875">
+		10/0.4kV Dyn11</tspan>
+	</text>
+	<text x="20" y="325" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,151.3822,-44.333)" xmlns="http://www.w3.org/2000/svg">
+	P:</text>
+	<text x="20" y="340" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,151.3822,-44.333)" xmlns="http://www.w3.org/2000/svg">
+	Q:</text>
+	<text x="8" y="355" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(1,0,0,1,154.2913,-43.32295)" xmlns="http://www.w3.org/2000/svg">
+	PF:</text>
+	<text x="15" y="295" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,148.3822,-44.333)" xmlns="http://www.w3.org/2000/svg">
+	Ib:</text>
+	<text x="15" y="310" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,148.3822,-44.333)" xmlns="http://www.w3.org/2000/svg">
+	Ic:</text>
+	<text x="15" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,148.3822,-44.333)" xmlns="http://www.w3.org/2000/svg">
+	Ia:</text>
+	<text id="29.34.Ia" x="50" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,149.2312,-40.96601)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="29.34.Ib" x="50" y="295" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,149.2312,-40.96601)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="29.34.Ic" x="50" y="310" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,149.2312,-40.96601)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="29.34.Psum" x="50" y="325" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,149.2312,-40.96601)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="29.34.Qsum" x="50" y="340" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,149.2312,-40.96601)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="29.34.PFsum" x="50" y="355" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,149.2312,-40.96601)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="100.2.TA" x="1300" y="80" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,-287.08,-37.3331)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="100.2.TB" x="1350" y="80" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,-337.08,-21.33311)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="100.2.TC" x="1400" y="80" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,-387.0813,-4.335136)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text x="1120" y="80" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,-62.2966,-37.33335)" xmlns="http://www.w3.org/2000/svg">
+	℃</text>
+	<text x="1120" y="80" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,-140.9899,-40.33302)" xmlns="http://www.w3.org/2000/svg">
+	Ta:</text>
+	<text x="1120" y="80" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(1,0,0,1,-256,-70) matrix(1,0,0,1,115,46.667)" xmlns="http://www.w3.org/2000/svg">
+	Tb:</text>
+	<text x="1120" y="80" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(1,0,0,1,-256,-70) matrix(1,0,0,1,115,63.667)" xmlns="http://www.w3.org/2000/svg">
+	Tc:</text>
+	<text x="1120" y="80" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,-63.29647,-20.3333)" xmlns="http://www.w3.org/2000/svg">
+	℃</text>
+	<text x="1120" y="80" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,-63.29647,-4.333363)" xmlns="http://www.w3.org/2000/svg">
+	℃</text>
+	<text x="1120" y="80" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,87.18562,-36.33344)" xmlns="http://www.w3.org/2000/svg">
+	V</text>
+	<text x="1120" y="80" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,87.18562,-19.33347)" xmlns="http://www.w3.org/2000/svg">
+	V</text>
+	<text x="1120" y="80" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,87.18562,-3.333483)" xmlns="http://www.w3.org/2000/svg">
+	V</text>
+	<text x="300" y="75" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,969.2598,-32.50112)" xmlns="http://www.w3.org/2000/svg">
+			Uab:</text>
+	<text x="300" y="90" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,969.2598,-32.16806)" xmlns="http://www.w3.org/2000/svg">
+			Ubc:</text>
+	<text x="300" y="105" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,968.926,-31.50107)" xmlns="http://www.w3.org/2000/svg">
+			Uca:</text>
+	<text id="29.34.Uab" x="335" y="75" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,979.8607,-32.5003)" xmlns="http://www.w3.org/2000/svg">
+			####</text>
+	<text id="29.34.Ubc" x="335" y="90" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,979.8636,-32.16729)" xmlns="http://www.w3.org/2000/svg">
+			####</text>
+	<text id="29.34.Uca" x="335" y="105" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,979.5275,-31.50021)" xmlns="http://www.w3.org/2000/svg">
+			####</text>
+	<text x="1120" y="80" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,255.2553,-36.33336)" xmlns="http://www.w3.org/2000/svg">
+	V</text>
+	<text x="1120" y="80" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,255.2553,-19.3334)" xmlns="http://www.w3.org/2000/svg">
+	V</text>
+	<text x="1120" y="80" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,255.2553,-3.333396)" xmlns="http://www.w3.org/2000/svg">
+	V</text>
+		<text x="1120" y="80" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,400.5714,-7.333573)" xmlns="http://www.w3.org/2000/svg">
+	Hz</text>
+	<text x="210" y="120" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1225.949,-46.83316)" xmlns="http://www.w3.org/2000/svg">
+			F:</text>
+	<text id="29.34.F" x="240" y="120" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1223.959,-47.1662)" xmlns="http://www.w3.org/2000/svg">
+			####</text>
+	<text x="205" y="75" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,906.262,-32.8341)" xmlns="http://www.w3.org/2000/svg">
+			Ua:</text>
+	<text x="205" y="90" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,905.928,-31.16712)" xmlns="http://www.w3.org/2000/svg">
+			Ub:</text>
+	<text x="205" y="105" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,905.9288,-30.16706)" xmlns="http://www.w3.org/2000/svg">
+			Uc:</text>
+	<text id="29.34.Ua" x="240" y="75" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,907.2097,-31.16733)" xmlns="http://www.w3.org/2000/svg">
+			####</text>
+	<text id="29.34.Ub" x="240" y="90" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,906.8759,-31.16637)" xmlns="http://www.w3.org/2000/svg">
+			####</text>
+	<text id="29.34.Uc" x="240" y="105" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,906.8748,-30.16628)" xmlns="http://www.w3.org/2000/svg">
+			####</text>
+	<text x="464" y="135" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1356.156,255.1546)" xmlns="http://www.w3.org/2000/svg">
+	P:</text>
+	<text x="464" y="150" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1355.651,255.1546)" xmlns="http://www.w3.org/2000/svg">
+	Q:</text>
+	<text x="451.5" y="165" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1359.732,255.1548)" xmlns="http://www.w3.org/2000/svg">
+	PF:</text>
+	<text id="34.39.Psum" x="495" y="135" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1354.168,256.1646)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="34.39.Qsum" x="495" y="150" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1354.168,256.1646)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="34.39.PFsum" x="495" y="165" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1354.168,256.1646)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<line x1="-31" y1="70" x2="-31" y2="70" stroke="none" stroke-opacity="0" />
+	<text x="464" y="135" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,-4.338024,156.8336)">
+	P:</text>
+	<text x="464" y="150" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(1,0,0,1,-4.338024,156.8336)">
+	Q:</text>
+	<text x="452.5" y="165" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,-1.096012,157.692)" xmlns="http://www.w3.org/2000/svg">
+	PF:</text>
+	<text id="31.36.Psum" x="495" y="135" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,-6.174386,158.5172)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="31.36.Qsum" x="495" y="150" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,-6.174386,158.5172)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="31.36.PFsum" x="495" y="165" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,-6.174386,158.5172)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text x="464" y="135" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,966.3213,254.9889)" xmlns="http://www.w3.org/2000/svg">
+	P:</text>
+	<text x="464" y="150" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,966.3213,254.9889)" xmlns="http://www.w3.org/2000/svg">
+	Q:</text>
+	<text x="452" y="165" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,969.3979,254.9888)" xmlns="http://www.w3.org/2000/svg">
+	PF:</text>
+	<text id="32.37.Psum" x="495" y="135" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,966.5167,255.9978)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="32.37.Qsum" x="495" y="150" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,966.5167,255.9978)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="32.37.PFsum" x="495" y="165" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,966.5167,255.9978)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text x="15" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,826.5864,506.649)" xmlns="http://www.w3.org/2000/svg">
+	Ia:</text>
+	<text x="15" y="295" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,826.5864,506.649)" xmlns="http://www.w3.org/2000/svg">
+	Ib:</text>
+	<text x="15" y="310" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,826.5864,506.6489)" xmlns="http://www.w3.org/2000/svg">
+	Ic:</text>
+	<text x="20" y="325" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,829.5745,506.649)" xmlns="http://www.w3.org/2000/svg">
+	P:</text>
+	<text x="20" y="340" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,829.5745,506.649)" xmlns="http://www.w3.org/2000/svg">
+	Q:</text>
+	<text x="8" y="355" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,832.8268,506.649)" xmlns="http://www.w3.org/2000/svg">
+	PF:</text>
+	<text id="7.60.Ia" x="50" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,830.4224,507.659)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="7.60.Ib" x="50" y="295" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,830.4224,507.659)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="7.60.Ic" x="50" y="310" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,830.4224,507.659)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="7.60.Psum" x="50" y="325" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,830.4224,507.659)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="7.60.Qsum" x="50" y="340" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,830.4224,507.659)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="7.60.PFsum" x="50" y="355" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,830.4224,507.659)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text x="15" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,979.0882,505.2337)" xmlns="http://www.w3.org/2000/svg">
+	Ia:</text>
+	<text x="15" y="295" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,979.0905,505.2337)" xmlns="http://www.w3.org/2000/svg">
+	Ib:</text>
+	<text x="15" y="310" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,979.0905,505.2337)" xmlns="http://www.w3.org/2000/svg">
+	Ic:</text>
+	<text x="19.5" y="325" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,983.0905,505.2337)" xmlns="http://www.w3.org/2000/svg">
+	P:</text>
+	<text x="20" y="340" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,982.4238,505.2337)" xmlns="http://www.w3.org/2000/svg">
+	Q:</text>
+	<text x="8" y="355" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,985.6716,505.2337)" xmlns="http://www.w3.org/2000/svg">
+	PF:</text>
+	<text id="49.60.Ia" x="50" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,980.5212,506.2437)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="49.60.Ib" x="50" y="295" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,980.5212,506.2437)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="49.60.Ic" x="50" y="310" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,980.5212,506.2437)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="49.60.Psum" x="50" y="325" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,980.5212,506.2437)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="49.60.Qsum" x="50" y="340" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,980.5212,506.2437)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="49.60.PFsum" x="50" y="355" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,980.5212,506.2437)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text x="15" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1130.874,508.3165)" xmlns="http://www.w3.org/2000/svg">
+	Ia:</text>
+	<text x="15" y="295" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1130.874,508.3165)" xmlns="http://www.w3.org/2000/svg">
+	Ib:</text>
+	<text x="15" y="310" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1130.874,508.3165)" xmlns="http://www.w3.org/2000/svg">
+	Ic:</text>
+	<text x="20" y="325" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1134.213,508.3165)" xmlns="http://www.w3.org/2000/svg">
+	P:</text>
+	<text x="20" y="340" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1134.213,508.3165)" xmlns="http://www.w3.org/2000/svg">
+	Q:</text>
+	<text x="8" y="355" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1137.465,508.822)" xmlns="http://www.w3.org/2000/svg">
+	PF:</text>
+	<text id="50.60.Ia" x="50" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1135.103,509.326)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="50.60.Ib" x="50" y="295" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1135.103,509.326)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="50.60.Ic" x="50" y="310" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1135.103,509.326)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="50.60.Psum" x="50" y="325" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1135.103,509.326)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="50.60.Qsum" x="50" y="340" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1135.103,509.326)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="50.60.PFsum" x="50" y="355" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1135.103,509.326)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text x="15" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,421.5556,505.6434)" xmlns="http://www.w3.org/2000/svg">
+	Ia:</text>
+	<text x="15" y="295" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,421.5556,505.6434)" xmlns="http://www.w3.org/2000/svg">
+	Ib:</text>
+	<text x="15" y="310" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,421.5556,505.6434)" xmlns="http://www.w3.org/2000/svg">
+	Ic:</text>
+	<text x="20" y="325" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,424.5564,505.6434)" xmlns="http://www.w3.org/2000/svg">
+	P:</text>
+	<text x="20" y="340" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,424.5564,505.6434)" xmlns="http://www.w3.org/2000/svg">
+	Q:</text>
+	<text x="8" y="355" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,427.8049,505.6434)" xmlns="http://www.w3.org/2000/svg">
+	PF:</text>
+	<text id="47.5.Ia" x="50" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,426.4038,507.6635)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="47.5.Ib" x="50" y="295" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,426.4038,507.6635)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="47.5.Ic" x="50" y="310" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,426.4038,507.6635)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="47.5.Psum" x="50" y="325" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,426.4038,507.6635)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="47.5.Qsum" x="50" y="340" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,426.4038,507.6635)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="47.5.PFsum" x="50" y="355" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,426.4038,505.9966)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text x="15" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,656.2473,506.9866)" xmlns="http://www.w3.org/2000/svg">
+	Ia:</text>
+	<text x="15" y="295" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,656.2473,506.9866)" xmlns="http://www.w3.org/2000/svg">
+	Ib:</text>
+	<text x="15" y="310" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,656.2473,506.9866)" xmlns="http://www.w3.org/2000/svg">
+	Ic:</text>
+	<text x="20" y="325" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,659.2393,506.9866)" xmlns="http://www.w3.org/2000/svg">
+	P:</text>
+	<text x="20" y="340" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,659.2393,506.9866)" xmlns="http://www.w3.org/2000/svg">
+	Q:</text>
+	<text x="7.5" y="355" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,662.653,506.482)" xmlns="http://www.w3.org/2000/svg">
+	PF:</text>
+	<text id="19.22.Ia" x="50" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,660.1489,507.9966)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="19.22.Ib" x="50" y="295" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,660.1489,507.9966)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="19.22.Ic" x="50" y="310" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,660.1489,507.9966)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="19.22.Psum" x="50" y="325" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,660.1489,507.9966)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="19.22.Qsum" x="50" y="340" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,660.1489,507.9966)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="19.22.PFsum" x="50" y="355" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,660.1489,507.9966)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text x="15" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1596.563,507.4805)" xmlns="http://www.w3.org/2000/svg">
+	Ia:</text>
+	<text x="15" y="295" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1596.563,507.4805)" xmlns="http://www.w3.org/2000/svg">
+	Ib:</text>
+	<text x="15" y="310" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1596.563,507.4805)" xmlns="http://www.w3.org/2000/svg">
+	Ic:</text>
+	<text x="20" y="325" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1599.896,507.4805)" xmlns="http://www.w3.org/2000/svg">
+	P:</text>
+	<text x="20" y="340" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1599.896,507.4805)" xmlns="http://www.w3.org/2000/svg">
+	Q:</text>
+	<text x="8.5" y="355" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1602.31,507.4799)" xmlns="http://www.w3.org/2000/svg">
+	PF:</text>
+	<text id="13.13.Ia" x="50" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1597.736,508.9955)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="13.13.Ib" x="50" y="295" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1597.736,508.9955)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="13.13.Ic" x="50" y="310" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1597.736,508.9955)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="13.13.Psum" x="50" y="325" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1597.736,508.9955)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="13.13.Qsum" x="50" y="340" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1597.736,508.9955)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="13.13.PFsum" x="50" y="355" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1597.736,508.9955)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text x="15" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1750.297,507.9855)" xmlns="http://www.w3.org/2000/svg">
+	Ia:</text>
+	<text x="15" y="295" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1750.297,507.9855)" xmlns="http://www.w3.org/2000/svg">
+	Ib:</text>
+	<text x="15" y="310" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1750.297,507.9855)" xmlns="http://www.w3.org/2000/svg">
+	Ic:</text>
+	<text x="20" y="325" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1753.287,507.9855)" xmlns="http://www.w3.org/2000/svg">
+	P:</text>
+	<text x="20" y="340" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1753.287,507.9855)" xmlns="http://www.w3.org/2000/svg">
+	Q:</text>
+	<text x="8" y="355" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1756.539,508.491)" xmlns="http://www.w3.org/2000/svg">
+	PF:</text>
+	<text id="14.14.Ia" x="50" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1754.167,508.9955)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="14.14.Ib" x="50" y="295" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1754.167,508.9955)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="14.14.Ic" x="50" y="310" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1754.167,508.9955)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="14.14.Psum" x="50" y="325" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1754.167,508.9955)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="14.14.Qsum" x="50" y="340" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1754.167,508.9955)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="14.14.PFsum" x="50" y="355" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1754.167,508.9955)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text x="638" y="1056" xml:space="preserve" font-family="宋体" font-size="17" fill="#00FF00" stroke="#00FF00" baseline-shift="baseline">
+	</text>
+	<text x="64" y="90" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFF00" stroke="#FFFF00" stroke-width="0.05" baseline-shift="baseline">
+	</text>
+	<text x="1065" y="438" space="preserve" font-family="宋体" font-size="17" fill="#000000" stroke="#000000" baseline-shift="baseline" xmlns="http://www.w3.org/2000/svg">
+</text>
+	&gt;
+	<text x="1067" y="513" space="preserve" font-family="宋体" font-size="17" fill="#000000" stroke="#000000" baseline-shift="baseline" xmlns="http://www.w3.org/2000/svg">
+</text>
+	<text x="-219" y="45" space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" xmlns="http://www.w3.org/2000/svg">
+</text>
+	<text x="-234" y="65" space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" xmlns="http://www.w3.org/2000/svg">
+</text>
+	<text x="-184" y="70" space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" xmlns="http://www.w3.org/2000/svg">
+</text>
+	<text x="767" y="1070" space="preserve" font-family="宋体" font-size="17" fill="none" fill-opacity="0" stroke="#FFFF00" baseline-shift="baseline" xmlns="http://www.w3.org/2000/svg">
+</text>
+	<text x="767" y="1070" space="preserve" font-family="宋体" font-size="17" fill="none" fill-opacity="0" stroke="#FFFF00" baseline-shift="baseline" xmlns="http://www.w3.org/2000/svg">
+</text>
+	<text x="5" y="86" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,158.3701,117.663)" stroke-width="0.05" xmlns="http://www.w3.org/2000/svg">
+	Ie: 577</text>
+	<text x="5" y="86" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" baseline-shift="baseline" transform="matrix(1,0,0,1,875.322,124.1647)" stroke-width="0.05" xmlns="http://www.w3.org/2000/svg">
+	Ie:  270</text>
+	<text x="5.5" y="86" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1805.825,230.498)" stroke-width="0.05" xmlns="http://www.w3.org/2000/svg">
+	Ie: 200</text>
+	<text x="5" y="86" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,445.9818,124.5007)" stroke-width="0.05" xmlns="http://www.w3.org/2000/svg">
+	Ie: 270</text>
+	<text x="6" y="86" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1415.636,230.3318)" stroke-width="0.05" xmlns="http://www.w3.org/2000/svg">
+	Ie: 398</text>
+	<text x="5" y="86" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,836.5709,667.9899)" stroke-width="0.05" xmlns="http://www.w3.org/2000/svg">
+	Ie: 117</text>
+	<text x="5" y="86" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,988.0678,669.8212)" stroke-width="0.05" xmlns="http://www.w3.org/2000/svg">
+	Ie: 117</text>
+	<text x="5" y="86" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1140.87,671.6572)" stroke-width="0.05" xmlns="http://www.w3.org/2000/svg">
+	Ie: 117</text>
+	<text x="5" y="86" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,431.2032,668.3248)" stroke-width="0.05" xmlns="http://www.w3.org/2000/svg">
+	Ie: 117</text>
+	<text x="5" y="86" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,665.5599,667.6572)" stroke-width="0.05" xmlns="http://www.w3.org/2000/svg">
+	Ie: 117</text>
+	<text x="5" y="86" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1606.553,665.6586)" stroke-width="0.05" xmlns="http://www.w3.org/2000/svg">
+	Ie: 72</text>
+	<text x="5" y="86" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1759.964,667.9926)" stroke-width="0.05" xmlns="http://www.w3.org/2000/svg">
+	Ie: 72</text>
+	<text x="-273.3333" y="83.33332" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.25" baseline-shift="baseline">
+	</text>
+	<text x="15" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1796.657,65.6508)" xmlns="http://www.w3.org/2000/svg">
+	Ia:</text>
+	<text x="15" y="295" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1796.657,66.15584)" xmlns="http://www.w3.org/2000/svg">
+	Ib:</text>
+	<text x="15" y="310" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1796.657,66.15584)" xmlns="http://www.w3.org/2000/svg">
+	Ic:</text>
+	<text id="34.39.Ia" x="50" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1798.163,67.16547)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="34.39.Ib" x="50" y="295" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1798.163,67.16547)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="34.39.Ic" x="50" y="310" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1798.163,67.16547)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text x="15" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,864.6538,-36.16634)">
+	Ia:</text>
+	<text x="15" y="295" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,864.6538,-36.16634)">
+	Ib:</text>
+	<text x="15" y="310" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,864.6538,-36.16634)">
+	Ic:</text>
+	<text x="15" y="325" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,873.0697,-35.15637)" xmlns="http://www.w3.org/2000/svg">
+	P:</text>
+	<text x="15" y="340" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,873.07,-34.14626)" xmlns="http://www.w3.org/2000/svg">
+	Q:</text>
+	<text x="15" y="355" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,864.1446,-32.126)" xmlns="http://www.w3.org/2000/svg">
+	PF:</text>
+	<text x="15" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,436.3169,-33.49834)">
+	Ia:</text>
+	<text x="15" y="295" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,436.3169,-33.49834)">
+	Ib:</text>
+	<text x="15" y="310" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,436.3169,-33.49834)">
+	Ic:</text>
+	<text id="31.36.Ia" x="50" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,438.4843,-31.81464)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="31.36.Ib" x="50" y="295" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,438.4843,-31.81464)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="31.36.Ic" x="50" y="310" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,438.4843,-31.81464)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text x="15" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1406.656,65.98986)" xmlns="http://www.w3.org/2000/svg">
+	Ia:</text>
+	<text x="15" y="295" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1406.656,65.98986)" xmlns="http://www.w3.org/2000/svg">
+	Ib:</text>
+	<text x="15" y="310" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1406.656,65.98986)" xmlns="http://www.w3.org/2000/svg">
+	Ic:</text>
+	<text id="32.37.Ia" x="50" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1410.852,66.99957)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="32.37.Ib" x="50" y="295" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1410.852,66.99957)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="32.37.Ic" x="50" y="310" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1410.852,66.99957)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text x="15" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,148.3802,-59.33303)" xmlns="http://www.w3.org/2000/svg">
+	Ki:</text>
+	<text name="Ki" Ie="577" valueId="29.34" x="50" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,149.2302,-55.96601)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text x="15" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1796.658,51.99083)" xmlns="http://www.w3.org/2000/svg">
+	Ki:</text>
+	<text name="Ki" Ie="200" valueId="34.39" x="50" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1798.163,51.33345)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text x="15.5" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" stroke-width="0.05" baseline-shift="baseline" transform="matrix(1,0,0,1,864.655,-52.16734)">
+	Ki:</text>
+	<text name="Ki" Ie="270" valueId="30.35" x="50" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,864.7529,-51.16747)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text x="15.85" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,434.9839,-51.83434)">
+	Ki:</text>
+	<text name="Ki" Ie="270" valueId="31.36" x="50" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,437.4816,-50.15062)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text x="15.5" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1405.98,51.99991)" xmlns="http://www.w3.org/2000/svg">
+	Ki:</text>
+	<text name="Ki" Ie="398" valueId="32.37" x="50" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1410.519,50.99973)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text x="15" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,826.9127,490.3244)" xmlns="http://www.w3.org/2000/svg">
+	Ki:</text>
+	<text name="Ki" Ie="117" valueId="7.60" x="50" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,830.0812,490.3244)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text x="15" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,978.7418,491.2284)" xmlns="http://www.w3.org/2000/svg">
+	Ki:</text>
+	<text name="Ki" Ie="117" valueId="49.60" x="50" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,980.5056,490.5724)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text x="15" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1131.223,493.6545)" xmlns="http://www.w3.org/2000/svg">
+	Ki:</text>
+	<text name="Ki" Ie="117" valueId="50.60" x="50" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1134.431,493.6541)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text x="15" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,421.2084,491.6463)" xmlns="http://www.w3.org/2000/svg">
+	Ki:</text>
+	<text name="Ki" Ie="117" valueId="47.5" x="50" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,426.4009,492.6552)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text x="15" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,656.2421,490.6542)" xmlns="http://www.w3.org/2000/svg">
+	Ki:</text>
+	<text name="Ki" Ie="117" valueId="19.22" x="50" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,659.475,490.6542)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text x="15" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1596.563,489.1438)" xmlns="http://www.w3.org/2000/svg">
+	Ki:</text>
+	<text name="Ki" Ie="72" valueId="13.13" x="50" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1598.069,490.6588)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text x="15" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1750.136,491.3159)" xmlns="http://www.w3.org/2000/svg">
+	Ki:</text>
+	<text name="Ki" Ie="72" valueId="14.14" x="50" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1753.501,492.3259)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="30.35.Ia" x="1118" y="162" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.25" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,-202.8992,80.66409)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="30.35.Ib" x="1118" y="178" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.25" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,-202.8992,80.66409)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="30.35.Ic" x="1118" y="194" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.25" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,-202.8992,80.66409)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="30.35.Psum" x="1118" y="210" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.25" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,-202.8992,80.66409)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="30.35.Qsum" x="1118" y="226" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.25" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,-202.8992,80.66409)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="30.35.PFsum" x="1118" y="242" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.25" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,-202.8992,80.66409)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text x="580" y="211.6666" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,26.91474,71.95044)" xmlns="http://www.w3.org/2000/svg">
+	315A</text>
+	<text x="580" y="211.6666" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,461.545,73.63265)" xmlns="http://www.w3.org/2000/svg">
+	315A</text>
+	<text x="580" y="211.6666" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1004.866,90.18344)" xmlns="http://www.w3.org/2000/svg">
+	400A</text>
+	<text x="580" y="211.6666" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1362.846,180.2998)" xmlns="http://www.w3.org/2000/svg">
+	200A</text>
+	<text x="580" y="211.6666" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,-293.79,31.90001)" xmlns="http://www.w3.org/2000/svg">
+	660A</text>
+	<rect x="23.33" y="755" width="175" height="200" fill="none" fill-opacity="0" stroke="#FFFFFF" stroke-width="1.25" transform="matrix(1.069,0,0,1.074,1901.65,-154.546)" />
+	<rect x="52.5" y="627.5" width="308" height="179" fill="none" stroke="#FFFFFF" stroke-width="1.25" transform="matrix(0.622,0,0,1.525,72.04,-439.369)" xmlns="http://www.w3.org/2000/svg" />
+	<rect x="48.75" y="503.75" width="303.75" height="108.75" fill="none" stroke="#FFFFFF" stroke-width="1.25" transform="matrix(0.628,0,0,1.23,75.026,193.296)" xmlns="http://www.w3.org/2000/svg" />
+	<text x="5" y="82" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,130.9114,768.1633)" stroke-width="0.05">
+	配电房温湿度</text>
+	<text x="5" y="102" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,132.5784,784.8306)" stroke-width="0.05">
+	T(℃):</text>
+	<text id="101.1.T" x="57" y="102" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,152.5777,784.8306)" stroke-width="0.05">
+	####</text>
+	<text x="4.5" y="122" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,132.5752,796.494)" stroke-width="0.05">
+	PH(%):</text>
+	<text id="101.1.RT" x="57" y="122" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,152.5754,796.494)" stroke-width="0.05">
+	####</text>
+	<text x="49.99994" y="635" xml:space="preserve" font-size="17" stroke-width="0.05" fill="#FFFFFF" fill-opacity="1" stroke="#FFFFFF" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,83.33186,-86.25196)">
+	注释</text>
+	<text x="53" y="665" xml:space="preserve" font-family="Arial" font-size="17" fill="#FFFFFF" fill-opacity="1" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,83.33186,-86.25196)">
+	I:电流(A)</text>
+	<text x="180" y="665" xml:space="preserve" font-family="Arial" font-size="17" fill="#FFFFFF" fill-opacity="1" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,-43.33515,33.74815)">
+	P:有功功率(kW)</text>
+	<text x="53" y="695" xml:space="preserve" font-family="Arial" font-size="17" fill="#FFFFFF" fill-opacity="1" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,83.33186,-86.25196)">
+	U:电压(V)</text>
+	<text x="180" y="695" xml:space="preserve" font-family="Arial" font-size="17" fill="#FFFFFF" fill-opacity="1" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,-43.33515,33.74815)">
+	Q:无功功率(kVar)</text>
+	<text x="53" y="725" xml:space="preserve" font-family="Arial" font-size="17" fill="#FFFFFF" fill-opacity="1" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,83.33186,-86.25196)">
+	Ki:负荷率</text>
+	<text x="180" y="725" xml:space="preserve" font-family="Arial" font-size="17" fill="#FFFFFF" fill-opacity="1" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,-43.33515,33.74815)">
+	PF:功率因数</text>
+	<text x="180" y="755" xml:space="preserve" font-family="Arial" font-size="17" fill="#FFFFFF" fill-opacity="1" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,-43.33319,-84.58398)">
+	Ie:载流量(A)</text>
+	<text x="50" y="800" xml:space="preserve" font-family="微软雅黑" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" transform="matrix(1,0,0,1,1897.327,-84.583)">
+	说明:</text>
+	<rect x="100" y="375" width="40" height="20" fill="#FF0000" stroke="#FF0000" transform="matrix(1,0,0,1,1872.995,377.417)" />
+	<rect x="100" y="375" width="40" height="20" fill="#00FF00" stroke="#00FF00" transform="matrix(1,0,0,1,1872.995,425.415)" />
+	<text x="100" y="845" xml:space="preserve" font-family="微软雅黑" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" baseline-shift="baseline" stroke-width="0.05" transform="matrix(1,0,0,1,1918.999,-77.916)">
+	合闸</text>
+	<text x="96.75" y="895" xml:space="preserve" font-family="微软雅黑" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" baseline-shift="baseline" stroke-width="0.05" transform="matrix(1,0,0,1,1920.661,-77.916)">
+	分闸</text>
+	<text class="jumpArrow" data_svg="D栋1楼" style="cursor:pointer" x="448.3333" y="908.3332" xml:space="preserve" font-family="宋体" font-size="25" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1.25" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,7.54042,41.66674)" xmlns="http://www.w3.org/2000/svg">
+	︾</text>
+	<text class="jumpArrow" data_svg="D栋2楼" style="cursor:pointer" x="569.9999" y="906.6666" xml:space="preserve" font-family="宋体" font-size="25" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1.25" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,4.540358,42.67692)" xmlns="http://www.w3.org/2000/svg">
+	︾</text>
+	<text class="jumpArrow" data_svg="D栋3楼" style="cursor:pointer" x="683.3332" y="903.3332" xml:space="preserve" font-family="宋体" font-size="25" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1.25" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,-1.460496,45.70718)" xmlns="http://www.w3.org/2000/svg">
+	︾</text>
+	<text class="jumpArrow" data_svg="C栋" style="cursor:pointer" x="1043.5" y="906.6666" xml:space="preserve" font-family="宋体" font-size="25" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1.25" baseline-shift="baseline" transform="matrix(1,0,0,1,-186.677,42.677)" xmlns="http://www.w3.org/2000/svg">
+	︾</text>
+	<line x1="1400" y1="500" x2="1400" y2="750" stroke="#804000" stroke-width="2" transform="matrix(0.9999999,0,0,0.9999999,76.33186,-52.667)" />
+	<rect id="12.12.DI" x="115" y="370" width="10" height="30" fill="#FF0000" stroke="#FF0000" transform="matrix(0.9999999,0,0,0.9999999,1356.057,128)" />
+	<ellipse cx="550" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,926.2162,150.166)" />
+	<ellipse cx="530" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,926.2162,150.166)" />
+	<ellipse cx="570" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,926.2162,150.166)" />
+	<line x1="550" y1="410" x2="550" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,926.2162,150.166)" />
+	<line x1="530" y1="410" x2="530" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,926.2162,150.166)" />
+	<line x1="570" y1="410" x2="570" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,926.2162,150.166)" />
+	<line x1="536" y1="420" x2="542" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,926.2162,150.166)" />
+	<line x1="556" y1="420" x2="562" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,926.2162,150.166)" />
+	<line x1="576" y1="420" x2="582" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,926.2162,150.166)" />
+	<line x1="579" y1="417" x2="582" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,926.2162,150.166)" />
+	<line x1="577" y1="417" x2="580" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,926.2162,150.166)" />
+	<line x1="559" y1="417" x2="562" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,926.2162,150.166)" />
+	<line x1="557" y1="417" x2="560" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,926.2162,150.166)" />
+	<line x1="539" y1="417" x2="542" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,926.2162,150.166)" />
+	<line x1="537" y1="417" x2="540" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,926.2162,150.166)" />
+	<polygon points="612 422,601 403,623 403" fill-rule="evenodd" fill="#CCCCCC" stroke="#CCCCCC" transform="matrix(0.9999999,0,0,0.9999999,864.4732,215.049)" />
+	<text class="shebei" style="cursor:pointer" data-sb="58.15.DI" data-mid="2" x="1540" y="550" xml:space="preserve" font-family="宋体" font-size="20" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" transform="matrix(0.9999999,0,0,0.9999999,-127.4507,171.998)" xmlns="http://www.w3.org/2000/svg">
+	二楼包装车间</text>
+	<text x="15" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1430.203,505.1478)" xmlns="http://www.w3.org/2000/svg">
+	Ia:</text>
+	<text x="15" y="295" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1430.203,505.1478)" xmlns="http://www.w3.org/2000/svg">
+	Ib:</text>
+	<text x="15" y="310" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1430.203,505.1478)" xmlns="http://www.w3.org/2000/svg">
+	Ic:</text>
+	<text x="20" y="325" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1433.536,505.1478)" xmlns="http://www.w3.org/2000/svg">
+	P:</text>
+	<text x="20" y="340" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1433.536,505.1478)" xmlns="http://www.w3.org/2000/svg">
+	Q:</text>
+	<text x="8" y="355" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1436.789,506.1581)" xmlns="http://www.w3.org/2000/svg">
+	PF:</text>
+	<text id="12.12.Ia" x="50" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1432.083,506.6628)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="12.12.Ib" x="50" y="295" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1432.083,506.6628)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="12.12.Ic" x="50" y="310" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1432.083,506.6628)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="12.12.Psum" x="50" y="325" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1432.083,506.6628)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="12.12.Qsum" x="50" y="340" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1432.083,506.6628)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="12.12.PFsum" x="50" y="355" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1432.083,506.6628)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text x="5" y="86" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1439.526,666.3275)" stroke-width="0.05" xmlns="http://www.w3.org/2000/svg">
+	Ie: 95</text>
+	<text x="15" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1429.87,490.1427)" xmlns="http://www.w3.org/2000/svg">
+	Ki:</text>
+	<text name="Ki" Ie="95" valueId="12.12" x="50" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1431.083,489.9919)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text class="jumpArrow" data_svg="E栋" style="cursor:pointer" x="1391.666" y="904.9999" xml:space="preserve" font-family="宋体" font-size="25" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1.25" baseline-shift="baseline" transform="matrix(1,0,0,1,-94.424,43.687)" xmlns="http://www.w3.org/2000/svg">
+	︾</text>
+	<rect x="115" y="370" width="10" height="30" fill="#FF0000" stroke="#FF0000" transform="matrix(0.9999999,0,0,0.9999999,1617.323,-226.6676)" />
+	<text x="580" y="211.6666" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1164.502,-45.36567)" xmlns="http://www.w3.org/2000/svg">
+	400A</text>
+	<line x1="1567" y1="209" x2="1931" y2="209" stroke="#804000" stroke-width="3" transform="matrix(0.9999999,0,0,0.9999999,6.666922,26.667)" />
+	<line x1="1400" y1="500" x2="1400" y2="750" stroke="#804000" stroke-width="2" transform="matrix(0.9999999,0,0,0.9999999,-87.00209,-51.00002)" />
+	<rect id="12.12.DI" x="115" y="370" width="10" height="30" fill="#FF0000" stroke="#FF0000" transform="matrix(0.9999999,0,0,0.9999999,1192.724,129.667)" />
+	<ellipse cx="550" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,762.8843,151.833)" />
+	<ellipse cx="530" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,762.8843,151.833)" />
+	<ellipse cx="570" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,762.8843,151.833)" />
+	<line x1="550" y1="410" x2="550" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,762.8843,151.833)" />
+	<line x1="530" y1="410" x2="530" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,762.8843,151.833)" />
+	<line x1="570" y1="410" x2="570" y2="430" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,762.8843,151.833)" />
+	<line x1="536" y1="420" x2="542" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,762.8843,151.833)" />
+	<line x1="556" y1="420" x2="562" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,762.8843,151.833)" />
+	<line x1="576" y1="420" x2="582" y2="420" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,762.8843,151.833)" />
+	<line x1="579" y1="417" x2="582" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,762.8843,151.833)" />
+	<line x1="577" y1="417" x2="580" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,762.8843,151.833)" />
+	<line x1="559" y1="417" x2="562" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,762.8843,151.833)" />
+	<line x1="557" y1="417" x2="560" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,762.8843,151.833)" />
+	<line x1="539" y1="417" x2="542" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,762.8843,151.833)" />
+	<line x1="537" y1="417" x2="540" y2="424" stroke="#FFFFFF" transform="matrix(0.9999999,0,0,0.9999999,762.8843,151.833)" />
+	<polygon points="612 422,601 403,623 403" fill-rule="evenodd" fill="#CCCCCC" stroke="#CCCCCC" transform="matrix(0.9999999,0,0,0.9999999,701.1415,216.716)" />
+	<text class="shebei" style="cursor:pointer" data-sb="11.11.DI" data-mid="2" x="1540" y="550" xml:space="preserve" font-family="宋体" font-size="20" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" transform="matrix(0.9999999,0,0,0.9999999,-274.119,173.664)" xmlns="http://www.w3.org/2000/svg">
+	一楼车间</text>
+	<text x="15" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1267.88,506.8147)" xmlns="http://www.w3.org/2000/svg">
+	Ia:</text>
+	<text x="15" y="295" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1267.88,506.8147)" xmlns="http://www.w3.org/2000/svg">
+	Ib:</text>
+	<text x="15" y="310" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1267.88,506.8147)" xmlns="http://www.w3.org/2000/svg">
+	Ic:</text>
+	<text x="20" y="325" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1271.213,506.8147)" xmlns="http://www.w3.org/2000/svg">
+	P:</text>
+	<text x="20" y="340" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1271.213,506.8147)" xmlns="http://www.w3.org/2000/svg">
+	Q:</text>
+	<text x="8" y="355" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1274.466,506.815)" xmlns="http://www.w3.org/2000/svg">
+	PF:</text>
+	<text id="11.11.Ia" x="50" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1268.75,508.3297)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="11.11.Ib" x="50" y="295" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1268.75,508.3297)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="11.11.Ic" x="50" y="310" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1268.75,508.3297)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="11.11.Psum" x="50" y="325" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1268.75,508.3297)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="11.11.Qsum" x="50" y="340" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1268.75,508.3297)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text id="11.11.PFsum" x="50" y="355" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1268.75,508.3297)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+	<text x="5" y="86" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1278.213,667.994)" stroke-width="0.05" xmlns="http://www.w3.org/2000/svg">
+	Ie: 117</text>
+	<text x="15" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1267.546,490.81)" xmlns="http://www.w3.org/2000/svg">
+	Ki:</text>
+	<text name="Ki" Ie="117" valueId="11.11" x="50" y="280" xml:space="preserve" font-family="宋体" font-size="17" fill="#33FF00" stroke="#33FF00" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,1267.75,491.6588)" xmlns="http://www.w3.org/2000/svg">
+	####</text>
+		<text x="65" y="50" xml:space="preserve" font-family="宋体" font-size="20" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" transform="matrix(0.9999999,0,0,0.9999999,173.9487,-14.33304)" xmlns="http://www.w3.org/2000/svg">
+	A01柜</text>
+	<text x="65" y="50" xml:space="preserve" font-family="宋体" font-size="20" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" transform="matrix(0.9999998,0,0,0.9999998,674.0971,-17.66726)" xmlns="http://www.w3.org/2000/svg">
+	A02柜</text>
+	<text x="65" y="50" xml:space="preserve" font-family="宋体" font-size="20" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" transform="matrix(0.9999999,0,0,0.9999999,1630.649,-14.3327)" xmlns="http://www.w3.org/2000/svg">
+	A03柜</text>
+	<text x="65" y="50" xml:space="preserve" font-family="宋体" font-size="20" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" transform="matrix(0.9999999,0,0,0.9999999,1998.94,-15.99968)" xmlns="http://www.w3.org/2000/svg">
+	A04柜</text>
+	<g transform="matrix(0.9999999,0,0,0.9999999,-1498.337,-413.3333)">
+		<ellipse cx="550" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(1,0,0,1,1227.885,152.033)" />
+		<ellipse cx="530" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(1,0,0,1,1227.885,152.033)" />
+		<ellipse cx="570" cy="420" rx="6" ry="6" fill="none" fill-opacity="0" stroke="#FFFFFF" transform="matrix(1,0,0,1,1227.885,152.033)" />
+		<line x1="550" y1="410" x2="550" y2="430" stroke="#FFFFFF" transform="matrix(1,0,0,1,1227.885,152.033)" />
+		<line x1="530" y1="410" x2="530" y2="430" stroke="#FFFFFF" transform="matrix(1,0,0,1,1227.885,152.033)" />
+		<line x1="570" y1="410" x2="570" y2="430" stroke="#FFFFFF" transform="matrix(1,0,0,1,1227.885,152.033)" />
+		<line x1="536" y1="420" x2="542" y2="420" stroke="#FFFFFF" transform="matrix(1,0,0,1,1227.885,152.033)" />
+		<line x1="556" y1="420" x2="562" y2="420" stroke="#FFFFFF" transform="matrix(1,0,0,1,1227.885,152.033)" />
+		<line x1="576" y1="420" x2="582" y2="420" stroke="#FFFFFF" transform="matrix(1,0,0,1,1227.885,152.033)" />
+		<line x1="579" y1="417" x2="582" y2="424" stroke="#FFFFFF" transform="matrix(1,0,0,1,1227.885,152.033)" />
+		<line x1="577" y1="417" x2="580" y2="424" stroke="#FFFFFF" transform="matrix(1,0,0,1,1227.885,152.033)" />
+		<line x1="559" y1="417" x2="562" y2="424" stroke="#FFFFFF" transform="matrix(1,0,0,1,1227.885,152.033)" />
+		<line x1="557" y1="417" x2="560" y2="424" stroke="#FFFFFF" transform="matrix(1,0,0,1,1227.885,152.033)" />
+		<line x1="539" y1="417" x2="542" y2="424" stroke="#FFFFFF" transform="matrix(1,0,0,1,1227.885,152.033)" />
+		<line x1="537" y1="417" x2="540" y2="424" stroke="#FFFFFF" transform="matrix(1,0,0,1,1227.885,152.033)" />
+	</g>
+	<line x1="134" y1="400" x2="281" y2="400" stroke-width="3" stroke="#804000" />
+	<rect x="115" y="370" width="10" height="30" fill="#FF0000" stroke="#FF0000" transform="matrix(-0.025,1,-1,-0.025,568.528,332.586)" />
+	<polygon points="612 422,601 403,623 403" fill-rule="evenodd" fill="#CCCCCC" stroke="#CCCCCC" transform="matrix(-0.8510001,0.5249999,-0.525,-0.851,969.3576,470.1369)" />
+	<polygon points="612 422,601 403,623 403" fill-rule="evenodd" fill="#CCCCCC" stroke="#CCCCCC" transform="matrix(-0.8510001,0.5249999,-0.525,-0.851,969.3578,425.137)" />
+	<text class="jumpArrow" data_svg="A栋" style="cursor:pointer" x="145" y="478.3333" xml:space="preserve" font-family="宋体" font-size="20" stroke-width="0.05" fill="#FFFFFF" stroke="#FFFFFF" baseline-shift="baseline" transform="matrix(0.9999999,0,0,0.9999999,-0.0001566501,9.999968)">
+	》A栋进线</text>
+	
+<text x="65" y="50" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" transform="matrix(0.9999999,0,0,0.9999999,174.4205,71.99499)" xmlns="http://www.w3.org/2000/svg">
+	2*(3*240)</text>
+<text x="65" y="50" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" transform="matrix(1,0,0,1,181.962,386.263)" xmlns="http://www.w3.org/2000/svg">
+	2*(3*50)</text>
+<text x="65" y="50" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" transform="matrix(0.9999999,0,0,0.9999999,534.2758,373.268)" xmlns="http://www.w3.org/2000/svg">
+	3*120</text>
+<text x="65" y="50" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" transform="matrix(1,0,0,1,973.457,371.72)" xmlns="http://www.w3.org/2000/svg">
+	3*120</text>
+<text x="65" y="50" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" transform="matrix(1,0,0,1,1523.073,373.539)" xmlns="http://www.w3.org/2000/svg">
+	3*75（两组）</text>
+<text x="65" y="50" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" transform="matrix(0.9999999,0,0,0.9999999,1819.362,479.597)" xmlns="http://www.w3.org/2000/svg">
+	3*75</text>
+<text x="65" y="50" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" transform="matrix(0.9999999,0,0,0.9999999,405.4594,627.2697)" xmlns="http://www.w3.org/2000/svg">
+	3*50</text>
+<text x="65" y="50" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" transform="matrix(0.9999999,0,0,0.9999999,528.4871,627.0684)" xmlns="http://www.w3.org/2000/svg">
+	3*50</text>
+<text x="65" y="50" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" transform="matrix(0.9999999,0,0,0.9999999,635.353,627.8773)" xmlns="http://www.w3.org/2000/svg">
+	3*50</text>
+<text x="65" y="50" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" transform="matrix(0.9999999,0,0,0.9999999,804.8439,627.676)" xmlns="http://www.w3.org/2000/svg">
+	3*50</text>
+<text x="65" y="50" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" transform="matrix(0.9999999,0,0,0.9999999,965.2438,626.465)" xmlns="http://www.w3.org/2000/svg">
+	3*50</text>
+<text x="65" y="50" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" transform="matrix(0.9999999,0,0,0.9999999,1117.562,628.2838)" xmlns="http://www.w3.org/2000/svg">
+	3*50</text>
+<text x="65" y="50" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" transform="matrix(0.9999999,0,0,0.9999999,1248.67,627.0723)" xmlns="http://www.w3.org/2000/svg">
+	3*50</text>
+<text x="65" y="50" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" transform="matrix(0.9999999,0,0,0.9999999,1412.101,626.8715)" xmlns="http://www.w3.org/2000/svg">
+	3*35</text>
+<text x="65" y="50" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" transform="matrix(0.9999999,0,0,0.9999999,1582.602,628.6904)" xmlns="http://www.w3.org/2000/svg">
+	3*25</text>
+<text x="65" y="50" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" transform="matrix(0.9999999,0,0,0.9999999,1724.821,629.4995)" xmlns="http://www.w3.org/2000/svg">
+	3*25</text>
+<text x="580" y="211.6666" xml:space="preserve" font-family="宋体" font-size="17" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,1484.515,249.1199)" xmlns="http://www.w3.org/2000/svg">
+	10*20kVar</text>
+<text class="jumpArrow" data_svg="C栋" style="cursor:pointer" x="1043.5" y="906.6666" xml:space="preserve" font-family="宋体" font-size="25" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1.25" baseline-shift="baseline" transform="matrix(1,0,0,1,123.215,42.476)" xmlns="http://www.w3.org/2000/svg">
+	︾</text>
+<text class="jumpArrow" data_svg="E栋" style="cursor:pointer" x="1391.666" y="904.9999" xml:space="preserve" font-family="宋体" font-size="25" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1.25" baseline-shift="baseline" transform="matrix(1,0,0,1,69.007,43.485)" xmlns="http://www.w3.org/2000/svg">
+	︾</text>
+<text class="jumpArrow" data_svg="E栋" style="cursor:pointer" x="1391.666" y="904.9999" xml:space="preserve" font-family="宋体" font-size="25" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1.25" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,231.6286,43.48508)" xmlns="http://www.w3.org/2000/svg">
+	︾</text>
+<text class="jumpArrow" data_svg="E栋" style="cursor:pointer" x="1391.666" y="904.9999" xml:space="preserve" font-family="宋体" font-size="25" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1.25" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,385.1602,44.49621)" xmlns="http://www.w3.org/2000/svg">
+	︾</text>
+
+<text x="116.1587" y="104.3745" xml:space="preserve" font-family="宋体" font-size="17" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.05" baseline-shift="baseline" transform="matrix(0.9999998,0,0,0.9999998,-22.22209,10.10025)" xmlns="http://www.w3.org/2000/svg">
+杆上变压器</text>
+<text x="580" y="211.6666" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" baseline-shift="baseline" transform="matrix(1,0,0,1,749.865,309.725)" xmlns="http://www.w3.org/2000/svg">
+	200A</text>
+<text x="580" y="211.6666" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" baseline-shift="baseline" transform="matrix(1,0,0,1,914.844,308.041)" xmlns="http://www.w3.org/2000/svg">
+	200A</text>
+<text x="580" y="211.6666" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" baseline-shift="baseline" transform="matrix(1,0,0,1,1079.823,308.041)" xmlns="http://www.w3.org/2000/svg">
+	200A</text>
+<text x="580" y="211.6666" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" baseline-shift="baseline" transform="matrix(1,0,0,1,1231.335,308.041)" xmlns="http://www.w3.org/2000/svg">
+	200A</text>
+<text x="580" y="211.6666" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" baseline-shift="baseline" transform="matrix(1,0,0,1,-91.864,308.041)" xmlns="http://www.w3.org/2000/svg">
+	200A</text>
+<text x="580" y="211.6666" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" baseline-shift="baseline" transform="matrix(1,0,0,1,27.661,308.041)" xmlns="http://www.w3.org/2000/svg">
+	200A</text>
+<text x="580" y="211.6666" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" baseline-shift="baseline" transform="matrix(1,0,0,1,135.403,308.041)" xmlns="http://www.w3.org/2000/svg">
+	200A</text>
+<text x="580" y="211.6666" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" baseline-shift="baseline" transform="matrix(1,0,0,1,302.662,308.832)" xmlns="http://www.w3.org/2000/svg">
+	400A</text>
+<text x="580" y="211.6666" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" baseline-shift="baseline" transform="matrix(1,0,0,1,459.224,308.832)" xmlns="http://www.w3.org/2000/svg">
+	400A</text>
+<text x="580" y="211.6666" xml:space="preserve" font-family="宋体" font-size="15" fill="#8080C0" stroke="#8080C0" stroke-width="0.05" baseline-shift="baseline" transform="matrix(1,0,0,1,610.735,308.832)" xmlns="http://www.w3.org/2000/svg">
+	400A</text>
+	
+</svg>

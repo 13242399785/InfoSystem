@@ -1,0 +1,431 @@
+$cl:#13b5b1;
+$cl1:#ec6941;
+$cl2:#49edfd;
+// $bgc:#0f324b;
+// #0d1a5b 0e3465
+// $bgc:#1b2b41;
+$bgc:#383838;
+
+$bg_1:#fff;
+$btn_b:#0a0a0a;
+$tab_b:#0c9c64;
+$border_c:#426680;
+$page_b:#363d65;
+$complete_c:#28f50b;//完成
+$submit_c:#00baff;//提交
+$alive_c:#fff100;//运行 
+$cancel_c:#ff00ff;//作废 
+$text_c:#444;
+html,body{
+  // -moz-user-select:none;
+  //  -webkit-user-select: none;
+  // -ms-user-select: none;
+  /*-khtml-user-select:none; *//*禁止元素点击出现半透明黑色背景*/
+}
+.iconfont{
+  font-family: 'iconfont';
+  font-style:normal;
+}
+.box-wapper{
+  height: 100%;
+  width: 100%;
+  overflow: auto;
+  background: $bg_1;
+  padding: 10px 14px;
+  // border: 2px solid #00ffff;
+  position: relative;
+}
+.tap-serch-l{
+  .tap-box{
+      display: flex;
+      span{
+          cursor: pointer;
+          padding: 8px 24px;
+          background: #0e3551;
+          
+          color: #7295ae;
+          white-space: nowrap;
+          font-size: 14px;
+      }
+      span:hover{
+          color: #fff;
+          background: #276f53;
+      }
+      .active{
+          color: #fff;
+          background: $tab_b;
+      }
+  }
+}
+.tap-serch{
+  display: flex;
+  justify-content: space-between;
+  color: #fff;
+  
+  .tap-serch-r{
+      display: flex;
+      white-space: nowrap;
+      align-items: center;
+      .select_title{
+          vertical-align: middle;
+          display: inline-block;
+          min-width: 70px;
+          margin-right: 4px;
+          text-align: right;
+          font-size: 14px;
+      }
+      .el-radio__inner{
+          background:$bg_1 ;
+          width: 18px;
+          height: 18px;
+      }
+      .el-radio{
+          color: #fff;
+      }
+      .el-date-editor .el-range-input{
+        color: #fff;
+      }
+      .el-button{
+          padding: 10px 20px;
+          background: $btn_b;
+          color: #fff;
+          border: none;
+      }
+      .el-date-editor .el-range__icon,.el-date-editor .el-range-separator{
+          line-height: 26px;
+      }
+      .el-range-editor.el-input__inner{
+          margin-right: 20px;
+          background: none;
+          border: 1px solid $border_c;
+          color:#fff;
+          input{
+              background: none;
+          }
+      }
+      .el-date-editor .el-range-separator{
+          color: #fff;
+      }
+  }
+}
+.box_bottom{
+  display: flex;
+  max-height: 89%;
+  min-height: 86%;
+  height: 86%;
+  padding: 12px 20px 0 10px;
+  margin: auto;
+  width: 100%;
+  .box_bottom_l{
+    min-width:160px;
+  }
+  .box_bottom_r{
+    width: 100%;
+    overflow: auto;
+  }
+}
+.select_title{
+  font-size: 14px;
+}
+// html{height: 100%;background-image: linear-gradient(to right, #84c4c6, #61afb3,#55a8ad,#489da3,#53a0a8, #7eb2bb,#b3c9d2);overflow: hidden;width: 100%;}
+.top-title{
+  font-size: 40px;
+  color: #fff;
+  img{vertical-align: middle;display: inline-block}
+}
+.pad-right{
+  margin-right:200px;
+}
+.activeCl{
+  color: #49edfd;
+}
+.btn-common{background: $cl;padding: 14px 24px;color: #fff;font-size: 16px;display: inline-block;transition: all ease .5s;-moz-user-select:none;
+  -webkit-user-select: none;
+  -ms-user-select: none;}
+.btn-common:hover{
+  background-color: #f6a288;
+}
+.btn-common:active {
+  background-color: #ec6941;
+}
+.tree_select{
+  margin: 14px 0;
+  input{
+    background: none;
+    border: 1px solid $border_c;
+    color: #fff;
+  }
+}
+.content_left{
+  border: 1px solid $border_c;
+  padding: 12px 10px;
+  color: #b0c4de;
+  min-width: 250px;
+  max-width: 250px;
+  width: 20%;
+  .el-tree{
+    background:none;
+  }
+}
+.caozuo{
+  .bor1{
+    cursor: pointer;
+    border: 1px solid #4fa7ba;
+    color: #4fa7ba;
+    border-radius: 5px;
+    padding: 2px 4px;
+  }
+  span:first-child{
+    margin-right: 4px;
+  }
+}
+.content_right{
+  margin-left: 6px;
+  min-width: 50%;
+  max-width: 100%;
+  flex:1;
+  width: 100%;
+  .select_box{
+    margin: 20px 0 20px 0;
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    .select_date{
+        display: inline-block;
+        padding-left: 50px;
+        input{
+            color: #fff;
+            background: none;
+            border: 1px solid $border_c;
+        }
+    }
+    .el-radio__inner{
+        background:$bg_1 ;
+        width: 18px;
+        height: 18px;
+    }
+    .el-radio{
+        color: #fff;
+    }
+    .el-button{
+        padding: 10px 20px;
+        background: $btn_b;
+        color: #fff;
+        border: none;
+    }
+  }
+}
+.top_title{
+  color: #b0c4de;
+  font-size: 15px;
+}
+.table_content{
+  max-height: 86%;
+  // height: 80%;
+   width: 100%;
+  position: relative;
+  overflow: auto;
+  margin-top: 10px;
+  border: 1px solid #252a47;
+  .td_control{
+    color: #4fa7ba;
+    text-decoration: underline;
+    white-space: nowrap;
+    padding: 4px 12px;
+    span{
+      cursor: pointer;
+      margin-right: 6px;
+    }
+    span:last-child{
+      margin-right: 0;
+    }
+  }
+  .posi_th{
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      background: #1a152f;
+      height: 42px;
+      line-height: 42px;
+      white-space: nowrap;
+     
+      span{
+          // line-height: 15px;
+          font-weight: bold;
+          white-space: nowrap;
+          display: inline-block;
+          border-right: 1px solid #252a47;
+          // color: #4fa7ba;
+          color: #666;
+          text-align: center;
+          font-size: 13px;
+          // background: #1a152f;
+          background: #e7f4f1;
+          box-shadow: 0 1px 1px #252a47;
+          border-bottom: 1px solid #252a47;
+      }
+  }
+  .table_box{
+      height:100%;
+      // width: 100%;
+      // overflow: auto;
+  }
+  .table_box::-webkit-scrollbar {/*滚动条整体样式*/
+      width:0.04rem;     /*高宽分别对应横竖滚动条的尺寸*/
+      height:5px;
+      // display: none;
+  }
+  .table_box::-webkit-scrollbar-thumb {/*滚动条里面小方块*/
+      border-radius: 10px;
+      -webkit-box-shadow: inset 0 0 5px rgba(0,0,0,0.2);
+      background: rgba(111,172,180,.3);
+  }
+  .nodatatext{
+      color: #d4d4d4;
+      text-align: center;
+      line-height: 50px;
+      font-size: 14px;
+  }
+}
+.table_content::-webkit-scrollbar {/*滚动条整体样式*/
+  width:0.08rem;     /*高宽分别对应横竖滚动条的尺寸*/
+  height:5px;
+  // display: none;
+}
+.table_content::-webkit-scrollbar-thumb {/*滚动条里面小方块*/
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 5px rgba(0,0,0,0.2);
+  background: rgba(111,172,180,.3);
+}
+.my_table{
+  width: 100%;
+  border-collapse: collapse;
+  white-space: nowrap;
+  padding: 0 5px;
+  color:#222;
+  font-size: 12px;
+  tr{
+      th{
+          color: #4fa7ba;
+          white-space:nowrap;
+          font-size: 12px;
+      }
+
+      td,th{
+          height: 42px;
+          padding: 4px;
+          border-right: 1px solid #252a47;
+          text-align: center;
+      }
+  }
+  
+  tr:nth-child(2n+1){
+      background: #e7f4f1;
+      // background: #26283a;
+  }
+  tr:hover{
+    background: #dbf3ed;
+  }
+}
+.pagination-box{
+  text-align: right;
+  padding: 14px 0 0 0; 
+  color: #222;
+  // .el-pagination__total{
+  //     color: #fff;
+  // }
+  .el-pagination{
+    .el-select{
+      .el-input{
+        .el-input__inner{
+          border: 1px solid $page_b;
+          color: #222;
+          background: none;
+        }
+      } 
+    } 
+   
+    .btn-prev,.btn-next{
+      background-color:$bg_1 ;
+      border: 1px solid $page_b;
+      color:#222;
+    }
+    button:disabled{
+      background-color: $bg_1;
+      color: #b1b1b1;
+    }
+  } 
+  .el-pager{
+    li{
+      background: none;
+      border: 1px solid $page_b;
+      color: #222;
+    }
+    .active{
+      background:#0d6a8c;
+      color: #fff;
+    }
+  }
+  .el-input__inner{
+    background-color:$bg_1 ;
+      border: 1px solid $page_b;
+      // color: #fff;
+  }
+}
+.dialog-wapper{
+  width: 100%;
+  .el-textarea__inner{
+    padding: 5px 8px;
+  }
+  .el-input__inner{
+    padding: 0 8px;
+  }
+  .el-date-editor{
+    .el-input__inner{
+      // padding: 0 20px;
+      padding-left: 30px;
+    }
+  }
+  .dialog-list{
+      display: flex;
+      flex-wrap:wrap;
+      justify-content: space-between;
+      padding: 10px 20px 10px 10px;
+      p{
+          width: 50%;
+          display: flex;
+          align-items: center;
+          margin-bottom: 10px;
+          
+          .lt{
+              min-width: 100px;
+              display: inline-block;
+              text-align: right;
+              padding: 0 6px;
+          }
+      }
+      .el-select,.el-date-editor{
+          width: 100%;
+      }
+      .el-select{
+
+      }
+  }
+}
+.el-dialog__header{
+  background: #13507b;
+  .el-dialog__title{
+      font-size: 14px;
+      color: #fff;
+  }
+}
+.el-dialog__footer{
+  border-top: 1px solid #ccc;
+}
+.thref{
+  span{
+    display: inline-block;
+    min-width: 40px;
+  }
+}
